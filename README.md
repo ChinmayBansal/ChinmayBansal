@@ -7,8 +7,11 @@
 ### Contact Info
 * cbansal@purdue.edu
 * chinmaybansalsc@outlook.com
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/)
  
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chinmay-bansal-136aa21a3/)
+[![]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+))](https://www.linkedin.com/in/chinmay-bansal-136aa21a3/)
 
 
 ### Languages and Tools
