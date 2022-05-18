@@ -16,6 +16,8 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChinmayBansal&show_icons=true"/>
                                                                                                  
                                                                                           
           
