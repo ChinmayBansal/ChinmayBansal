@@ -2,7 +2,7 @@
 ### Hi there 👋
 * My name is Chinmay Bansal.
 * I’m currently attending Purdue Univeristy and studying Computer Science.
-* I'm from the Bay Area pursuing software internships.
+* I'm from the Bay Area pursuing software engineering internships.
 
 ### Contact Info
 * cbansal@purdue.edu
