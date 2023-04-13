@@ -31,7 +31,7 @@
           
           
 ![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChinmayBansal&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBansal&hide_progress=trfalse)](https://github.com/ChinmayBansal/github-readme-stats)
           
           
 
