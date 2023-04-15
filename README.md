@@ -29,7 +29,6 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
           
           
-![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChinmayBansal&show_icons=true&theme=dracula)
 
           
 
