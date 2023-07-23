@@ -1,6 +1,5 @@
 
-### Hi there 👋
-* My name is Chinmay Bansal.
+### Hi, I'm Chinmay Bansal
 * I’m currently attending Purdue University and studying Computer Science.
 * I'm from the Bay Area pursuing software engineering internships where I can continue to progress my technical skills and positevly impact the world around me in a positve way.
 
