@@ -1,6 +1,6 @@
 
 ### Hi, I'm Chinmay Bansal
-* I recently graduated Purdue University with a BS in computer science .
+* B.S CS Purdue 2024
 * I'm from the Bay Area pursuing software engineering new grad roels where I can continue to progress my technical skills and positevly impact the world around me in a positve way.
 
 ### Contact Info
