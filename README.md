@@ -1,14 +1,31 @@
 
-### Hi, I'm Chinmay Bansal
-* B.S CS Purdue 2024
-* I'm from the Bay Area pursuing software engineering new grad roels where I can continue to progress my technical skills and positevly impact the world around me in a positve way.
-* Check out my website: [Chinmay Bansal](https://www.chinmaybansal.com)
+### Hi, I'm Chinmay 👋  
+🧠 Software Engineer | 🎓 Purdue CS ‘24 | 🌉 Bay Area
 
-### Contact Info
-* cbansal@purdue.edu
-* chinmaybansalsc@outlook.com
+I'm passionate about building AI-powered tools, scalable web apps, and secure infrastructure. Whether I’m architecting backend systems or exploring cutting-edge deep learning techniques, I thrive on turning complex ideas into real-world impact.
+
+---
+
+### 🚀 About Me
+
+- 🔭 Currently building: [**Stockteller**](https://stockteller.chinmaybansal.com), a real-time stock sentiment analyzer powered by NLP and market data
+- 🧑‍💻 Actively seeking new grad software engineering roles to apply my skills in AI/ML and scalable backend systems
+- 🧠 Learning: Multi-modal modeling, cloud-native architecture, Retrieval-Augmented Generation (RAG), LLM pipelines, and advanced machine learning techniques
+- 🤝 Open to Collaborate: Startups, AI tools, fintech products, cybersecurity, cloud - specifically where I can use my AI/ML skills
+- 💬 Ask me about: Full-stack development, ML engineering, cloud infrastructure, anything tech related I would love to talk about
+- 📸 Fun Fact: I love photography!
+
+---
+
+### 📬 Get in Touch
+
+- 📫 Email: [cbansal@purdue.edu](mailto:cbansal@purdue.edu) | [chinmaybansalsc@outlook.com](mailto:chinmaybansalsc@outlook.com)
+- 📞 Phone: +1 (408) 656-0967
+- 🌐 Website: [www.chinmaybansal.com](https://www.chinmaybansal.com)  
+- 💼 LinkedIn: [linkedin.com/in/chinmaybansal30](https://www.linkedin.com/in/chinmaybansal30/)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chinmaybansal30/)
+[![](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.chinmaybansal.com)
  
 
 
