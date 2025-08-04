@@ -27,7 +27,10 @@ I'm passionate about building AI-powered tools, scalable web apps, and secure in
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chinmaybansal30/)
 [![](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.chinmaybansal.com)
  
-
+<p align="center">
+  <img src="https://github-readme-stats-chinmaybansals-projects.vercel.app/api?username=chinmaybansal&show_icons=true&theme=radical&count_private=true" width="450" />
+  <img src="https://github-readme-stats-chinmaybansals-projects.vercel.app/api/top-langs/?username=chinmaybansal&layout=compact&theme=radical" width="350" />
+</p>
 
 
 ### Languages and Tools
