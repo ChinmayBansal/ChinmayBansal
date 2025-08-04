@@ -2,7 +2,7 @@
 ### Hi, I'm Chinmay Bansal
 * B.S CS Purdue 2024
 * I'm from the Bay Area pursuing software engineering new grad roels where I can continue to progress my technical skills and positevly impact the world around me in a positve way.
-* Check out my website: (https://www.chinmaybansal.com)
+* Check out my website: [Chinmay Bansal](https://www.chinmaybansal.com)
 
 ### Contact Info
 * cbansal@purdue.edu
