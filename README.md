@@ -8,7 +8,9 @@ I'm passionate about building AI-powered tools, scalable web apps, and secure in
 
 ### 🚀 About Me
 
-- 🔭 Currently building: [**Stockteller**](https://stockteller.chinmaybansal.com), a real-time stock sentiment analyzer powered by NLP and market data
+- 🔭 Currently building:
+  - [**Stockteller**](https://stockteller.chinmaybansal.com) → real-time stock sentiment analyzer powered by NLP market data
+  - A network security ML case study
 - 🧑‍💻 Actively seeking new grad software engineering roles to apply my skills in AI/ML and scalable backend systems
 - 🧠 Learning: Multi-modal modeling, cloud-native architecture, Retrieval-Augmented Generation (RAG), LLM pipelines, and advanced machine learning techniques
 - 🤝 Open to Collaborate: Startups, AI tools, fintech products, cybersecurity, cloud - specifically where I can use my AI/ML skills
